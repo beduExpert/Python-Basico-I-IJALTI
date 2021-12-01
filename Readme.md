@@ -1,5 +1,5 @@
  
-# Módulo: Programación con Python I
+# Módulo: Programación con Python Básico II
 
 ## :wave: Bienvenid@s
 
@@ -19,9 +19,3 @@ Al finalizar el módulo podrás distinguir e identificar la sintaxis básica del
  - [`Sesión 3`](Sesion-03): Modulos y paquetes
  - [`Sesión 4`](Sesion-04): Programación Orientada a Objetos I
  - [`Sesión 5`](Sesion-05): Programación Orientada a Objetos II
-
-
-
-
-
-
